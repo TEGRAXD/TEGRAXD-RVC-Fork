@@ -7,6 +7,15 @@ __pycache__
 tools/aria2c/
 tools/flag.txt
 
+# infer-web
+infer-web.py
+
+# Dataset
+/dataset
+/datasets
+/data
+/training
+
 # Imported from huggingface.co/lj1995/VoiceConversionWebUI
 /pretrained
 /pretrained_v2
